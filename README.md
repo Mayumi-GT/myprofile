@@ -14,10 +14,10 @@ Python, C++, C, JavaScript, SQL,‬‭ HTML/CSS, Java, Git, VS Code, GitHub, Jup
  
 **Undergraduate Teaching Assistant @ University of Colorado Boulder (May 23 - Aug 23)**
 
-**Global Technical Manager @  Mitsubishi Chemical America (Dec 16 - Mar 22)**
+**Global Technical Manager @  Mitsubishi Chemical America**
 
-**Project Manager @ Mitsubishi Chemical Corporation (Apr 13 - Dec 16)**
+**Project Manager @ Mitsubishi Chemical Corporation**
 
-**‬Senior Engineer @ Mitsubishi Chemical Corporation (Feb 11 - Dec 16)**
+**‬Senior Engineer @ Mitsubishi Chemical Corporation**
 
 ### Project
