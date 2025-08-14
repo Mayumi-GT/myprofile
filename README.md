@@ -10,14 +10,10 @@ Python, C++, C, JavaScript, SQL,‬‭ HTML/CSS, Java, Git, VS Code, GitHub, Jup
 - BS, Chemical & Biomolecular Engineering | Georgia Institute of Technology
 
 ### Work Experience
-**Software Engineer Fellow @ Uber Technologies (Feb 24 - Aug 24)**
- 
-**Undergraduate Teaching Assistant @ University of Colorado Boulder (May 23 - Aug 23)**
-
-**Global Technical Manager @  Mitsubishi Chemical America**
-
-**Project Manager @ Mitsubishi Chemical Corporation**
-
-**‬Senior Engineer @ Mitsubishi Chemical Corporation**
+- Software Engineer Intern | Uber Technologies | May 25 - Aug 25
+- Software Engineer Fellow | Uber Technologies | Feb 24 - Aug 24
+- Undergraduate Teaching Assistant | University of Colorado Boulder | May 23 - Aug 23
+- Program/ Engineering ROoles | Mitsubishi Chemical | Apr 11 - Mar 22
 
 ### Project
+- 
