@@ -13,7 +13,7 @@ Python, C++, C, JavaScript, SQL,‬‭ HTML/CSS, Java, Git, VS Code, GitHub, Jup
 - Software Engineer Intern | Uber Technologies | May 25 - Aug 25
 - Software Engineer Fellow | Uber Technologies | Feb 24 - Aug 24
 - Undergraduate Teaching Assistant | University of Colorado Boulder | May 23 - Aug 23
-- Program/ Engineering ROoles | Mitsubishi Chemical | Apr 11 - Mar 22
+- Program/ Engineering Roles | Mitsubishi Chemical | Apr 11 - Mar 22
 
 ### Project
 - [Text Autocomplete (Transformer fine-tune)](https://github.com/Mayumi-GT/email-autocomplete-transformer/blob/main/README.md) — Python, PyTorch, Gradio, NLP
